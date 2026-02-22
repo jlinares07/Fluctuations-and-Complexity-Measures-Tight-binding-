@@ -2,7 +2,7 @@
 
 This repository contains the reference implementation and numerical codes developed to reproduce the results presented in the manuscript titled *"Fluctuations, Complexity and Statistical Measures for Particles in a Tight-Binding Lattice"*.
 
-You could find here the Python 3.9.25 scripts that we used to generate the for Figures 3 and 4 of the paper. 
+You could find here the Python 3.9.25 scripts that we used to generate the Figures 3 and 4 of the paper. 
 
 For **Figure 3**, we present the system in a distributed configuration over the lattice sites satisfying -M ≤ l+m ≤ M (with M = 3). The relevant scrits are:
 
